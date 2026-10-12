@@ -1,0 +1,5 @@
+# Local configuration with private passwords / API keys
+email_config.php
+
+# Verification codes and logs generated during testing/runtime
+verification_log.json
